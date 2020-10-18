@@ -14,7 +14,7 @@ $(cat template.java)
 
 
 # Replace space with tab
-sed -i 's/    /\t/g' $file
+sed -i 's/    /\t/g' "$file"
 
 
 # Open file in Currently opened window

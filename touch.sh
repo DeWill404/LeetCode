@@ -1,5 +1,5 @@
 # File Loacation Variable
-file=Solution/$1
+file=Solution/$1".md"
 
 
 # Import template in file
